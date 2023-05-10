@@ -1,1 +1,1 @@
-# educational-website
+# Education-Website-
